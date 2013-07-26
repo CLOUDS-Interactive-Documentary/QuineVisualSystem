@@ -1,7 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
-#include "CloudsVisualSystemEmpty.h"
+#include "QuineVisualSystem.h"
 
 class testApp : public ofBaseApp{
   public:
