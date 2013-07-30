@@ -40,3 +40,5 @@ ${PREFIX}Flightphase/ofxTextInputField
 ${PREFIX}obviousjim/ofxMSATimer
 ${PREFIX}YCAMInterlab/ofxTimecode
 
+#VisualSystem-specific addons
+${PREFIX}ofZach/ofxRegex
