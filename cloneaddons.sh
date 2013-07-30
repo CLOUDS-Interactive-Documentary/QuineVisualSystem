@@ -41,4 +41,4 @@ ${PREFIX}obviousjim/ofxMSATimer
 ${PREFIX}YCAMInterlab/ofxTimecode
 
 #VisualSystem-specific addons
-${PREFIX}ofZach/ofxRegex
+${PREFIX}quinkennedy/ofxRegex
